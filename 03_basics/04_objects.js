@@ -67,8 +67,3 @@ console.log(instructor);
 //    "price": "free"
 //}//json api
 
-{
-    {},
-    {},
-    {}
-}
